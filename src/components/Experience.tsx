@@ -9,7 +9,7 @@ const Experience = () => {
       title: "Full Stack Developer",
       company: "Jasmaf Business Solutions Pvt Ltd",
       location: "Hyderabad, India",
-      period: "2023 - Present",
+      period: "2024 - Present",
       description:
         "Leading development of micro frontends and scalable economic applications with Docker deployment strategies.",
       responsibilities: [
