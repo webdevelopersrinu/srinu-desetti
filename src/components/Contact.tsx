@@ -36,7 +36,7 @@ const Contact = () => {
       icon: Phone,
       label: 'WhatsApp',
       value: '+91 95024 43217',
-      href: 'https://wa.me/91950243217',
+      href: 'https://wa.me/919502443217',
       color: 'text-green-500'
     },
     {
